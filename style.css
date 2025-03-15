@@ -25,6 +25,7 @@
 .todo-app h2{
     color: #153677;
     display: flex;
+    justify-content: center;
     align-items: center;
     margin-bottom: 20px;
 }
